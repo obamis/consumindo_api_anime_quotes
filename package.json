@@ -1,0 +1,16 @@
+{
+    "name": "consumindo_api_anime_quotes",
+    "version": "1.0.0",
+    "description": "Consumindo api's e usando ES6 para importar e exportar módulos",
+    "main": "api.js",
+    "dependencies": {
+        "axios": "^0.21.1"
+    },
+    "type": "module",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bruno Felipe Magalhães",
+    "license": "ISC"
+}
